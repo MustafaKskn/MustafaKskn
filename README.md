@@ -1,15 +1,16 @@
-<h1 align="center">Hi 👋, I'm Mustafa Keskin</h1>
-<h3 align="center">Junior Developer 💻</h3>
+<h1 align="center">Merhaba 👋, ben Mustafa Keskin</h1>
+<h3 align="center">Türkiye'den iddialı bir genç geliştirici</h3>
 
-<h3 align="left">Connect With Me :dependabot:</h3>
+<h3 align="left">Bana ulaşın: </h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mustafa-keskin-undefined-55b321251/" target="blank"><img align="center"
-                src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="MustafaKeskin" height="30"
-                width="40" /></a>
-  <a href="https://www.facebook.com/mustafa.keskin.2205" target="blank"><img align="center"
-                src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="MustafaKeskin" height="30"
-                width="40" /></a>
-  <a href="https://codepen.io/Mustafa-kes" target="blank"><img align="center"
-                src="https://user-images.githubusercontent.com/108763130/223450222-a21dd36b-6263-437f-a607-36aaf67935f5.jpg" alt="MustafaKeskin" height="30"
-                width="40" /></a>
-</p>
+<a href="https://codepen.io/@mustafa-kes" target="blank"><img align="center" src="https:// raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@mustafa-kes" height="30" width="40" /> </a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mustafa-keskin-undefined-55b321251/" target="blank"><img align="center" src ="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin .com/in/mustafa-keskin-undefined-55b321251/" height="30" width="40" /></a> <
+a href="https://fb.com/https://www.facebook .com/mustafa.keskin.2205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images /icons/Social/facebook.svg" alt="https://www.facebook.com/mustafa.keskin.2205" yükseklik="30" genişlik="40"/></a>
+<a href="https://www.youtube.com/c/@hasbimedya5389" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github- profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@hasbimedya5389" height="30" width="40" /></a> </p> <h3
+align
+
+= "left">Diller ve Araçlar:</h3>
+
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon /master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com /cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp " width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons /go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target= "_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width=" 40" yükseklik = 40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https:/ /raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https ://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql -server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel ="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master /icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target=" _blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40 "height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent. com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafakskn&show_icons=true&locale=en" alt="mustafakskn" /></p>
