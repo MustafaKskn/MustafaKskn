@@ -2,6 +2,13 @@
 <h1 align="center">Hi 👋, I'm Mustafa Keskin</h1>
 <h3 align="center">An ambitious junior developer from Turkey</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" height="500" width="500"></div>
+</br>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=mustafakskn" alt="mustafakskn" /></a> </p>
+
+<h3 align="left">Bana bağlan :</h3>
+<p align="left">
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@mustafa-kes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@mustafa-kes" height="30" width="40" /></a>
@@ -16,6 +23,11 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a></p>
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafakskn&show_icons=true&locale=en&layout=compact" alt="mustafakskn" /> </p>
+
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafakskn&show_icons=true&locale=en" alt="mustafakskn" /> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafakskn&" alt="mustafakskn" /></p>
 
 
 
