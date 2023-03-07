@@ -4,7 +4,7 @@
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" height="500" width="500"></div>
 </br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=mustafakskn" alt="mustafakskn" /></a> </p>
+<p align="left">  <img src="https://github-profile-trophy.vercel.app/?username=mustafakskn" alt="mustafakskn" /></a> </p>
 
 <h3 align="left">Bana bağlan :</h3>
 <p align="left">
